@@ -1,0 +1,7 @@
+C:\Users\KrizzTemo\source\repos\Patrones_Trabajo\Patrones_Trabajo_3\obj\Debug\Patrones_Trabajo_3.csprojAssemblyReference.cache
+C:\Users\KrizzTemo\source\repos\Patrones_Trabajo\Patrones_Trabajo_3\obj\Debug\Patrones_Trabajo_3.csproj.CoreCompileInputs.cache
+C:\Users\KrizzTemo\source\repos\Patrones_Trabajo\Patrones_Trabajo_3\bin\Debug\Patrones_Trabajo_3.exe.config
+C:\Users\KrizzTemo\source\repos\Patrones_Trabajo\Patrones_Trabajo_3\bin\Debug\Patrones_Trabajo_3.exe
+C:\Users\KrizzTemo\source\repos\Patrones_Trabajo\Patrones_Trabajo_3\bin\Debug\Patrones_Trabajo_3.pdb
+C:\Users\KrizzTemo\source\repos\Patrones_Trabajo\Patrones_Trabajo_3\obj\Debug\Patrones_Trabajo_3.exe
+C:\Users\KrizzTemo\source\repos\Patrones_Trabajo\Patrones_Trabajo_3\obj\Debug\Patrones_Trabajo_3.pdb
